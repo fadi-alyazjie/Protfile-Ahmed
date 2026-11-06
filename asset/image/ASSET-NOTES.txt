@@ -1,0 +1,24 @@
+Mode: built-in image_gen; generate
+
+PORTRAIT
+Use case: photorealistic-natural
+Asset type: website hero portrait placeholder
+Primary request: A stylized editorial studio photograph of a fictional young adult male graphic designer, smiling naturally, with short dark hair and a plain cream t-shirt.
+Scene/backdrop: black #101010 studio background.
+Composition/framing: square 1024x1024 image, centered bust to waist-up portrait.
+Lighting/mood: sophisticated studio photo, purple rim light on the left and amber rim light on the right.
+Constraints: an intentionally generic fictional stand-in, not a real person or celebrity; no text, logos, or watermarks.
+
+PROJECT GRID
+Use case: product-mockup
+Asset type: website portfolio project placeholder contact sheet
+Primary request: Create exactly 3 columns by 2 rows of equal rectangular panels with NO gaps, no gutters, no borders, filling an overall 1536x1024 landscape canvas. The six panels are six separate professionally art-directed fictional branding mockup scenes.
+Top left panel: yellow fast food packaging on a vibrant yellow tiled background.
+Top middle panel: premium olive oil dark green bottle with editorial cream packaging.
+Top right panel: emerald green editorial architecture poster with large cream typography reading exactly "SOCIAL MEDIA".
+Bottom left panel: streetwear green t-shirt folded on a warm beige background.
+Bottom middle panel: minimalist navy blue tech presentation on a screen with abstract diagrams.
+Bottom right panel: vibrant orange coffee paper cups with a geometric black design.
+Style/medium: photoreal product mockups, strong vivid color, sophisticated creative portfolio, carefully styled materials and realistic studio lighting.
+Composition/framing: exactly six panels in this stated order, perfectly aligned at one-third and two-thirds of the image width and one-half of its height; subjects contained inside their own panel so each panel can be cropped into an independent project image.
+Constraints: no real brands, no outer margins, no contact-sheet heading, no inter-panel spacing, no watermarks.
